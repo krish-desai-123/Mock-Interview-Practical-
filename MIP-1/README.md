@@ -325,7 +325,7 @@ Mock-Interview-Practical-/
 
 [![Watch on Loom](https://img.shields.io/badge/▶_Watch_on_Loom-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/e189f3129f4949f2b95e2c75f45eb29b)
  
-📺 **Video:** [Watch the full walkthrough on Loom](https://www.loom.com/share/e189f3129f4949f2b95e2c75f45eb29b)  ·  ⏱️ **Duration:** `X min`
+📺 **Video:** [Watch the full walkthrough on Loom](https://www.loom.com/share/e189f3129f4949f2b95e2c75f45eb29b)  ·
  
 A face + screen walkthrough of the problem, data cleaning and split, the statistics, the
 leakage-safe preprocessing, both models, the clusters, and the ANN.
